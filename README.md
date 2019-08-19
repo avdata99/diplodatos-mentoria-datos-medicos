@@ -28,4 +28,12 @@ Otros videos:
 Fecha de fin de trabajo: Desconocida, consultar.  
 
 
+## Sobre visualizaciones
+
+Notas del profe:  
+Para ser sincero, creo que no teníamos nada lo suficientemente interesante como para visualizar.  
+Ahora que vamos a estar haciendo representaciones distintas de los datos para Aprendizaje Supervisado, estaría bueno, que vean el Notebook que les mando.  
+[El notebook](visualizaciones/Visualización-Relaciones-Temporales.ipynb) muestra como usar una técnica llamada [t-SNE](https://www.datacamp.com/community/tutorials/introduction-t-sne). Básicamente, la idea es generar representaciones 2D o 3D a partir de datasets n-dimensionales.  
+¿Para que sirve esto? Primeramente para ver cuan buenas son las representaciones que tenemos por sí mismas para separar los datos.
+Por lo tanto, si tienen varias formas de representar los datos, se la pueden dar de comer a esta Notebook para generar distintas representaciones y ver que sale. 
 
